@@ -13,8 +13,8 @@ import (
 	"image"
 	"image/draw"
 
-	"github.com/hanguofeng/freetype-go-mirror/freetype/raster"
-	"github.com/hanguofeng/freetype-go-mirror/freetype/truetype"
+	"code.google.com/p/jamslam-freetype-go/freetype/raster"
+	"code.google.com/p/jamslam-freetype-go/freetype/truetype"
 )
 
 // These constants determine the size of the glyph cache. The cache is keyed
